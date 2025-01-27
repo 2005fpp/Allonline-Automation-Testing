@@ -16,7 +16,7 @@ ${BROWSER}    CHROME
 
 *** Test Cases ***
 Customers order, choose delivery, and pay at 7-Eleven success.
-    Proceed to login    feenkung.gamer@gmail.com    Feen#03052548
+    Proceed to login    "email"    "password"
     Verify succesful login    แต้ม
     Close Cookie Banner
 
