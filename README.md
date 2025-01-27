@@ -18,7 +18,7 @@ The script simulates a real-world user scenario where a customer:
 - **Selenium**: For browser automation.
 - **Robot Framework**: For test automation and keyword-driven testing.
 - **Python**: For scripting and logic.
-- **Browser Drivers**: ChromeDriver, GeckoDriver, etc.
+- **Browser Drivers**: ChromeDriver
 
 ---
 
